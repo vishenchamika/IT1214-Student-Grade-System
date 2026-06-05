@@ -69,6 +69,7 @@ public class StudentManagement {
                     break;
 
                 case 4:
+				// Calculate average marks
                     double total = 0;
 
                     for (Student s : students) {
