@@ -51,6 +51,7 @@ public class StudentManagement {
                     break;
 
                 case 3:
+				// Search student by ID
                     System.out.print("Enter Student ID: ");
                     int searchID = sc.nextInt();
 
