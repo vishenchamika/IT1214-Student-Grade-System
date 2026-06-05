@@ -1,4 +1,3 @@
-// Student Grade Management System
 import java.util.ArrayList;
 import java.util.Scanner;
 
